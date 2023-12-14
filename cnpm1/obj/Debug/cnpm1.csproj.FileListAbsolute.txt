@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\cnpm1\cnpm1\bin\Debug\cnpm1.exe.config
+C:\Users\User\source\repos\cnpm1\cnpm1\bin\Debug\cnpm1.exe
+C:\Users\User\source\repos\cnpm1\cnpm1\bin\Debug\cnpm1.pdb
+C:\Users\User\source\repos\cnpm1\cnpm1\obj\Debug\cnpm1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\cnpm1\cnpm1\obj\Debug\cnpm1.Properties.Resources.resources
+C:\Users\User\source\repos\cnpm1\cnpm1\obj\Debug\cnpm1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\cnpm1\cnpm1\obj\Debug\cnpm1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\cnpm1\cnpm1\obj\Debug\cnpm1.exe
+C:\Users\User\source\repos\cnpm1\cnpm1\obj\Debug\cnpm1.pdb
